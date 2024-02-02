@@ -1,4 +1,3 @@
-# fast-e-commerce
 # About:
  It is an ecommerce app created using python(fast-api).
 
