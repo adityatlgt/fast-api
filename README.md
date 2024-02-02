@@ -7,6 +7,7 @@ Requirments are available in requirements.txt file
 
 # Installation
 #####   Install the requirements.
+        pip install -r requirements.txt
 ##### Start the app using:
     uvicorn main:app 
 
