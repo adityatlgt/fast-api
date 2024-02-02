@@ -1,0 +1,23 @@
+db*
+static/images/logo*
+static/images/product*
+
+__pycache__/
+
+# pyenv
+.python-version
+
+__pypackages__/
+
+# Celery stuff
+celerybeat-schedule
+celerybeat.pid
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+
+
