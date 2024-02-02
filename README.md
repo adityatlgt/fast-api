@@ -1,12 +1,12 @@
 # About:
 It is an shopping app developed using python libraries.
-### Technologies:
-   python
-   fast-api
-   Jwt Authentication
-   Signals
-   fast-api mails
-   pydantic
+##### Technologies Used:
+   - python
+   - fast-api
+   - Jwt Authentication
+   - Signals
+   - fast-api mails
+   - pydantic
    
 ## Requirements:
 Requirments are available in requirements.txt file
