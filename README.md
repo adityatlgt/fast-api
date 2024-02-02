@@ -25,4 +25,4 @@ Requirments are available in requirements.txt file
     /products/{id} (GET): Retrieves details of a specific product.
 
 ## Authentication used:
-    Token Authentication
+  Token Authentication
