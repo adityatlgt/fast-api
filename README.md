@@ -1,7 +1,13 @@
 # About:
- It is an ecommerce app created using python(fast-api).
-
-
+It is an shopping app developed using python libraries.
+### Technologies:
+   python
+   fast-api
+   Jwt Authentication
+   Signals
+   fast-api mails
+   pydantic
+   
 ## Requirements:
 Requirments are available in requirements.txt file
 
