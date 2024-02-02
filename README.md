@@ -23,7 +23,6 @@ Requirments are available in requirements.txt file
     /products/{id} (PUT): Updates a product.
     /products (GET): Retrieves a list of products.
     /products/{id} (GET): Retrieves details of a specific product.
-    Authentication
 
 ## Authentication used:
     Token Authentication
