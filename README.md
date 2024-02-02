@@ -1,10 +1,10 @@
 # fast-e-commerce
 # About:
-      It is an ecommerce app created using python(fast-api).
+ It is an ecommerce app created using python(fast-api).
 
 
 ## Requirements:
-    Requirments are available in requirements.txt file
+Requirments are available in requirements.txt file
 
 # Installation
 #####   Install the requirements.
